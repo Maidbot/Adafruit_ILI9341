@@ -38,7 +38,6 @@
 
 #include "Arduino.h"
 #include "Print.h"
-#include <SPI.h>
 #include "Adafruit_GFX.h"
 #include <Adafruit_SPITFT.h>
 #include <Adafruit_SPITFT_Macros.h>
